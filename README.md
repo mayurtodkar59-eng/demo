@@ -1,1 +1,1 @@
-# demo
+# SQL project
